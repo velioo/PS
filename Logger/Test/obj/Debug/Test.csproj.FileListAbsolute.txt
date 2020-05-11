@@ -1,0 +1,11 @@
+E:\Darth Velioo\Visual Studio\Logger\Test\bin\Debug\Test.exe.config
+E:\Darth Velioo\Visual Studio\Logger\Test\bin\Debug\Test.exe
+E:\Darth Velioo\Visual Studio\Logger\Test\bin\Debug\Test.pdb
+E:\Darth Velioo\Visual Studio\Logger\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+E:\Darth Velioo\Visual Studio\Logger\Test\obj\Debug\Test.exe
+E:\Darth Velioo\Visual Studio\Logger\Test\obj\Debug\Test.pdb
+E:\Darth Velioo\Visual Studio\Logger\Test\bin\Debug\Logger.dll
+E:\Darth Velioo\Visual Studio\Logger\Test\bin\Debug\Logger.pdb
+E:\Darth Velioo\Visual Studio\Logger\Test\obj\Debug\Test.csprojAssemblyReference.cache
+E:\Darth Velioo\Visual Studio\Logger\Test\obj\Debug\Test.csproj.CopyComplete
+E:\Darth Velioo\Visual Studio\Logger\Test\bin\Debug\Logger.dll.config

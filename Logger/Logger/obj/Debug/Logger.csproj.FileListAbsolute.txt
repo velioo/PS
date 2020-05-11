@@ -1,0 +1,7 @@
+E:\Darth Velioo\Visual Studio\Logger\Logger\obj\Debug\Logger.csprojAssemblyReference.cache
+E:\Darth Velioo\Visual Studio\Logger\Logger\obj\Debug\Logger.csproj.CoreCompileInputs.cache
+E:\Darth Velioo\Visual Studio\Logger\Logger\bin\Debug\Logger.dll
+E:\Darth Velioo\Visual Studio\Logger\Logger\bin\Debug\Logger.pdb
+E:\Darth Velioo\Visual Studio\Logger\Logger\obj\Debug\Logger.dll
+E:\Darth Velioo\Visual Studio\Logger\Logger\obj\Debug\Logger.pdb
+E:\Darth Velioo\Visual Studio\Logger\Logger\bin\Debug\Logger.dll.config

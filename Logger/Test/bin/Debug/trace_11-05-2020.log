@@ -1,0 +1,12 @@
+11.5.2020 г. 11:16:47: Test log 1
+11.5.2020 г. 11:16:47: Test log 2
+11.5.2020 г. 11:16:47: Error: System.ArgumentNullException: Value cannot be null.
+Parameter name: Test exception
+   at Test.Program.Main(String[] args) in E:\Darth Velioo\Visual Studio\Logger\Test\Program.cs:line 20
+11.5.2020 г. 11:16:47: Test log 3
+11.5.2020 г. 11:28:03: Test log 1
+11.5.2020 г. 11:28:03: Test log 2
+11.5.2020 г. 11:28:03: Error: System.ArgumentNullException: Value cannot be null.
+Parameter name: Test exception
+   at Test.Program.Main(String[] args) in E:\Darth Velioo\Visual Studio\Logger\Test\Program.cs:line 20
+11.5.2020 г. 11:28:03: Test log 3
